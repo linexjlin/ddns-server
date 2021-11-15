@@ -1,5 +1,7 @@
 # ddns-serve
 
+[![Go](https://github.com/linexjlin/ddns-server/actions/workflows/go.yml/badge.svg)](https://github.com/linexjlin/ddns-server/actions/workflows/go.yml)
+
 ## Usage 
 1. Run serve
 ````
